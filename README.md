@@ -1,5 +1,6 @@
 # Robotron
 <h1>A game project during my JavaScript course @Alura</h1>
-![robotron javascript game first look](https://user-images.githubusercontent.com/122939534/219816235-13a80665-c16c-414b-b91d-af39a8ca0f40.png)
+
+![Robotron](https://user-images.githubusercontent.com/122939534/219817510-fc0216e7-4822-4616-921c-bb326ce05a84.jpg)
 
 **UNDER DEVELOPMENT**
